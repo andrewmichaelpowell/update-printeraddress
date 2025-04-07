@@ -1,5 +1,5 @@
 ﻿# +++++++++++++++++++++++++++++++++++
-# +  Get-SystemInfo                 +
+# +  Update-PrinterAddress          +
 # +  Author: Andrew Powell          +
 # +  github.com/andrewmichaelpowell +
 # +++++++++++++++++++++++++++++++++++
