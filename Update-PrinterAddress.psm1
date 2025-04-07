@@ -1,8 +1,8 @@
-﻿# +++++++++++++++++++++++++++++++++++
-# +  Update-PrinterAddress          +
-# +  Author: Andrew Powell          +
-# +  github.com/andrewmichaelpowell +
-# +++++++++++++++++++++++++++++++++++
+﻿# ++++++++++++++++++++++++++++++++++++
+# +  Update-PrinterAddress           +
+# +  Author: Andrew Powell           +
+# +  github.com/andrewmichaelpowell  +
+# ++++++++++++++++++++++++++++++++++++
 
 Function Update-PrinterAddress{
   Param(
